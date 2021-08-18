@@ -1,0 +1,14 @@
+ [
+     {
+    "titulo":"Cortar el pasto",
+    "estado": "terminada"  
+}, 
+{
+    "titulo":"Hacer la comida",
+    "estado": "en progreso"  
+},
+{
+    "titulo":"Lavar ropa",
+    "estado": "pendiente" 
+}
+]
